@@ -12,10 +12,10 @@ const App = () => {
     <div className='mx-4 sm:mx-[10%]'>
        <Navbar/>
        <Routes>
-        <Route path="/wordWeave/" element={<Home/>}/>
-        <Route path="/wordWeave/mythos" element={<Mythos/>}/>
-        <Route path="/wordWeave/about" element={<About/>}/>
-        <Route path="/wordWeave/contact" element={<Contact/>}/>
+        <Route path="/" element={<Home/>}/>
+        <Route path="/mythos" element={<Mythos/>}/>
+        <Route path="/about" element={<About/>}/>
+        <Route path="/contact" element={<Contact/>}/>
       </Routes>
       <Footer/>
     </div>
