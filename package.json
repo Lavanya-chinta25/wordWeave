@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Lavanya-chinta25.github.io/wordWeave"
+  "homepage": "https://Lavanya-chinta25.github.io"
 ,
   "scripts": {
     "dev": "vite",
